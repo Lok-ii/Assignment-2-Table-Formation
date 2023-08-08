@@ -1,19 +1,7 @@
-# Assignment-2-Table-Formation
-![Screenshot 2023-07-29 193948](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/997250bd-30f3-4ce4-9d25-56804af9e2b4)
+![Screenshot 2023-08-08 170745](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/2f570b3c-d8fb-4c89-84fd-1e7badef0aaa)
+![Screenshot 2023-08-08 170809](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/fe6d2cce-2e82-4dea-be17-acbc4faa3f6f)
+![Screenshot 2023-08-08 170827](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/092284ab-47f9-44d1-941b-02790a3c432b)
 
-In this first screenshot :-
-
-    In the first line We have <!DOCTYPE html>, which declares the document type.
-
-    <html> tag, which defines the whole html document.
-    
-    Then I have used the "head" contains meta information about the HTML page such as title of the webpage(using "title" tag)
-    
-    <title>Table Formation</title> element sets the title of the HTML document, which appears on the browser's title bar or tab.
-
-![Screenshot 2023-07-29 194006](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/f56607e7-374f-416f-b7f1-002ad9ceeeec)
-![Screenshot 2023-07-29 194019](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/e763672c-54b9-49fe-96a4-f59691a5d8b5)
-![Screenshot 2023-07-29 194045](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/ab05d7e6-b5b2-4861-9738-4dc65f56b7d1)
 
 In these three screenshot :-
 

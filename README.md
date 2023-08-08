@@ -1,3 +1,6 @@
+
+Hosted Link:- https://lok-ii.github.io/Assignment-2-Table-Formation/
+
 ![Screenshot 2023-08-08 170745](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/2f570b3c-d8fb-4c89-84fd-1e7badef0aaa)
 ![Screenshot 2023-08-08 170809](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/fe6d2cce-2e82-4dea-be17-acbc4faa3f6f)
 ![Screenshot 2023-08-08 170827](https://github.com/Lok-ii/Assignment-2-Table-Formation/assets/129180844/092284ab-47f9-44d1-941b-02790a3c432b)
